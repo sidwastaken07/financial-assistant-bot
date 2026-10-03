@@ -1,17 +1,4 @@
-"""LangChain-based Financial Assistant Bot.
 
-Reads financial documents (.txt, .md, .pdf), splits them into chunks, embeds the
-chunks into a FAISS vector store and answers questions about them with
-Retrieval-Augmented Generation (RAG) using an OpenAI chat model.
-
-Usage:
-    python main.py                       # interactive chat over ./data
-    python main.py -q "What was revenue?" # ask a single question
-    python main.py --docs report.pdf     # use a specific file or folder
-    python main.py --rebuild             # force re-indexing of documents
-    python main.py --embeddings local    # sentence-transformers instead of OpenAI
-    python main.py --no-llm              # only show the retrieved passages
-"""
 
 from __future__ import annotations
 
