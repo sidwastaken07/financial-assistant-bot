@@ -1,0 +1,67 @@
+NORTHWIND OUTDOOR GOODS, INC. — FISCAL YEAR 2024 ANNUAL REPORT (SUMMARY)
+This is a fictional company report included as sample data for the Financial Assistant Bot.
+All figures are in US dollars unless otherwise stated. Fiscal year 2024 ended December 31, 2024.
+
+LETTER TO SHAREHOLDERS
+Fiscal 2024 was a year of disciplined growth for Northwind Outdoor Goods. Total revenue rose to
+$482.6 million, up 12.4% from $429.4 million in fiscal 2023. Growth was led by our direct-to-consumer
+e-commerce channel and the successful launch of the TrailLite tent line. We continued to invest in
+supply-chain resilience while returning capital to shareholders through dividends and buybacks.
+
+INCOME STATEMENT HIGHLIGHTS
+Revenue: $482.6 million (FY2023: $429.4 million)
+Cost of goods sold: $280.9 million (FY2023: $256.1 million)
+Gross profit: $201.7 million (FY2023: $173.3 million)
+Gross margin: 41.8% (FY2023: 40.4%)
+Selling, general and administrative expenses: $128.3 million (FY2023: $115.0 million)
+Research and development: $14.2 million (FY2023: $11.6 million)
+Operating income: $59.2 million (FY2023: $46.7 million)
+Operating margin: 12.3% (FY2023: 10.9%)
+Interest expense: $6.1 million (FY2023: $7.4 million)
+Income tax expense: $11.4 million; effective tax rate of 21.5%
+Net income: $41.7 million (FY2023: $31.2 million)
+Diluted earnings per share: $2.08 (FY2023: $1.55)
+Diluted weighted-average shares outstanding: 20.0 million
+
+REVENUE BY SEGMENT
+Camping equipment: $211.3 million (43.8% of revenue), up 15.1% year over year.
+Apparel and footwear: $176.8 million (36.6% of revenue), up 8.2% year over year.
+Climbing and accessories: $94.5 million (19.6% of revenue), up 14.6% year over year.
+
+REVENUE BY CHANNEL
+Direct-to-consumer (e-commerce and owned stores): $236.5 million, 49.0% of revenue, up 21.7%.
+Wholesale partners: $246.1 million, 51.0% of revenue, up 4.7%.
+
+BALANCE SHEET (AS OF DECEMBER 31, 2024)
+Cash and cash equivalents: $88.4 million (December 31, 2023: $64.9 million)
+Accounts receivable: $52.7 million
+Inventory: $119.6 million (December 31, 2023: $131.2 million)
+Total current assets: $271.5 million
+Total assets: $612.3 million
+Total current liabilities: $142.8 million
+Long-term debt: $95.0 million (December 31, 2023: $120.0 million)
+Total liabilities: $291.6 million
+Total shareholders' equity: $320.7 million
+Current ratio: 1.90
+Debt-to-equity ratio: 0.30
+
+CASH FLOW
+Net cash provided by operating activities: $78.9 million (FY2023: $55.3 million)
+Capital expenditures: $21.4 million, primarily for a new distribution center in Reno, Nevada.
+Free cash flow (operating cash flow minus capital expenditures): $57.5 million
+Debt repayment: $25.0 million
+Dividends paid: $10.0 million ($0.50 per share)
+Share repurchases: $8.0 million
+
+RISK FACTORS
+Our results depend on consumer discretionary spending, which can decline in economic downturns.
+Approximately 62% of our products are manufactured in Southeast Asia; tariffs, shipping disruptions
+or currency fluctuations could raise costs. Our business is seasonal, with roughly 38% of annual
+revenue earned in the fourth quarter. Unfavourable weather can reduce demand for seasonal products.
+We rely on a small number of wholesale partners; our largest partner accounted for 14% of revenue.
+
+OUTLOOK FOR FISCAL 2025
+Management expects fiscal 2025 revenue of $520 million to $535 million, representing growth of
+7.7% to 10.9%, and diluted earnings per share of $2.25 to $2.40. Capital expenditures are planned
+at approximately $25 million. The board approved a quarterly dividend increase to $0.14 per share
+beginning in the first quarter of 2025, and a new $30 million share repurchase authorization.
