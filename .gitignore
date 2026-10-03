@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Generated vector index
+faiss_index/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
